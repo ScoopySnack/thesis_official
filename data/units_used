@@ -1,0 +1,32 @@
+density-> g/cm^3  ==  g/ml   in 20 °C
+temp-> °C
+mass-> g/mol
+pressure-> atm
+volume -> ml/mol
+
+vapour_pressure-> Torr (-> 1 Torr ≈ 133.322 Pa)
+
+molar_mass-> g/mol
+molar_volume-> ml/mol
+
+Molecular refractive power-> mL/mol
+
+dipole_moment-> Debye(D)
+
+Kow-> logP // octanol-water partition coefficient, https://en.wikipedia.org/wiki/Octanol-water_partition_coefficient
+// logP is the logarithm of the octanol-water partition coefficient, which is a measure of how hydrophobic a compound is.
+//If logP is positive, the compound is more hydrophobic and prefers to partition into octanol rather than water else
+// it prefers to partition into water rather than octanol.
+// logP is dimensionless, but it is often expressed in units of mL/g or mL/mol.
+// the numbers are usually between -3 and 6, with most compounds falling between -1 and 4. When close to 0,
+// the compound is equally hydrophilic and hydrophobic, meaning it has a balanced affinity for both water and octanol.
+
+refractive_index-> nD // refractive index at 20 °C
+
+surface_tension-> dyn/cm
+// dyn/cm is a unit of surface tension, which is the force per unit length acting on the surface of a liquid.
+
+Hildebrant solubility parameter <- (δ)
+
+viscosity-> cP
+specific_heat_capacity-> cal/mol·K

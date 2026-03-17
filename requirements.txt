@@ -1,0 +1,16 @@
+fraciso
+plotly
+cirpy
+rdkit
+pubchempy
+seaborn
+preprocessing
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+networkx
+jupyter
+
+pygments
