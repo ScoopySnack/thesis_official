@@ -3,7 +3,7 @@
 **Author:** Nikolaou Angeliki  
 **Institution:** European University Cyprus, School of Sciences  
 **Degree:** Master of Science in Artificial Intelligence  
-**Date:** December 2025  
+**Date:** June 2026  
 
 ---
 
